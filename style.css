@@ -1,0 +1,27 @@
+body {
+  background: url("http://i.cubeupload.com/NjsJx8.png");
+  font-size: 1.5rem;
+  color: #222;
+}
+
+#main {
+  text-align: center;
+  line-height: 1.4;
+  padding: 2rem;
+}
+
+#Alan-info {
+  list-style: none;
+}
+
+#image {
+  height: 500px;
+  border-radius: 5%;
+  box-shadow: 5px 10px 5px 5px #111;
+}
+
+#image-caption {
+  color: #777;
+  margin-top: 0.3rem;
+  margin-bottom: 6rem;
+}
